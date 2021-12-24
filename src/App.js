@@ -4,7 +4,7 @@ import Button from "./components/Button";
 import TodoList from "./components/TodoList";
 import "./App.css";
 
-const greeting = "Mahmut's wichtiges";
+const greeting = "Important thingss...";
 const navTitle = "Todo-App";
 const removeItem = "";
 const addButton = "Neues Todo";
